@@ -1,0 +1,6 @@
+{
+  "environment": "local",
+  "supabaseUrl": "https://<qa-project-ref>.supabase.co",
+  "supabaseAnonKey": "<qa-supabase-anon-key>",
+  "userServiceUrl": "http://localhost:8081"
+}
